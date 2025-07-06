@@ -1,5 +1,7 @@
 # 👋 Hey there! I'm Akshat Gupta
 
+💡 A strong believer in **leadership through collaboration** — I love guiding teams, blending ideas, and bringing out the best in people.  
+🌟 One of my core traits is: _"When I work on something, I naturally involve people around me — motivating them, making them feel part of the mission, and turning it into a shared win."_  
 🎯 A passionate developer and problem-solver, aiming to build smart, scalable, and meaningful tech solutions.  
 🔍 Always curious, always building.
 
@@ -8,19 +10,22 @@
 ## 🛠 Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals (By End of 3rd Year)
 
-- 📌 Data Structures & Algorithms (DSA)
-- 📱 Android Development (Kotlin)
+- 📌 Master Data Structures & Algorithms (DSA)
+- 📱 Build solid Android Development skills (Kotlin)
+
 
 ---
 
