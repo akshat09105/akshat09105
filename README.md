@@ -36,7 +36,7 @@
 ## 🚀 Currently Learning
 
 - 🧠 Git & GitHub (in-depth)
-- 🤖 Deep Learning
+- 🤖 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 - ⚡ FastAPI (for backend)
 - 🎨 CSS (design & styling)
 
