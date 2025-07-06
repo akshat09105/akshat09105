@@ -18,6 +18,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102C57?logo=scikit-learn&logoColor=white&style=for-the-badge)
+
 
 ---
 
