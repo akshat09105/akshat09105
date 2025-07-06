@@ -25,10 +25,17 @@
 
 ---
 
-## 🎯 Goals (By End of 3rd Year)
+## 🎯 Current Focus
 
-- 📌 Master Data Structures & Algorithms (DSA)
-- 📱 Build solid Android Development skills (Kotlin)
+- 🤖 Becoming an ML/DL engineer — constantly learning & experimenting
+
+## 🚀 Future Goals
+
+- 📱 Android Development (Kotlin) **(by end of 3rd year)**
+- 📌 Master Data Structures & Algorithms (DSA) **(by end of 3rd year)**
+- 💼 Build impactful real-world projects using AI and automation
+- 🌐 Explore system design & backend scaling (for future roles)
+
 
 
 ---
