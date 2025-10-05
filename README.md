@@ -35,7 +35,6 @@
 
 ## 🚀 Future Goals
 
-- 📱 Android Development (Kotlin) **(by end of 3rd year)**
 - 📌 Master Data Structures & Algorithms (DSA) **(by end of 3rd year)**
 - 💼 Build impactful real-world projects using AI and automation
 - 🌐 Explore system design & backend scaling (for future roles)
