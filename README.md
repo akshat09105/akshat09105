@@ -5,6 +5,9 @@
 🎯 A passionate developer and problem-solver, aiming to build smart, scalable, and meaningful tech solutions.  
 🔍 Always curious, always building.
 
+
+#Just working to satisfy myself and finding peace.
+
 ---
 
 
@@ -24,32 +27,6 @@
 <img src="https://raw.githubusercontent.com/infiniflow/ragflow/main/docs/logo.png" width="50" />
 
 
-
-
-
----
-
-## 🎯 Current Focus
-
-- 🤖 Becoming an ML/DL engineer — constantly learning & experimenting
-
-## 🚀 Future Goals
-
-- 📌 Master Data Structures & Algorithms (DSA) **(by end of 3rd year)**
-- 💼 Build impactful real-world projects using AI and automation
-- 🌐 Explore system design & backend scaling (for future roles)
-
-
-
----
-
-## 🚀 Currently Learning
-
-- ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-- ⚡ FastAPI (for backend)
-- 🎨 CSS (design & styling)
-
----
 
 ## 🔗 Connect with Me
 
