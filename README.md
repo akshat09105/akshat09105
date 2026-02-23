@@ -45,10 +45,23 @@
 
 ---
 
+## 📈 GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat09105&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Akshat's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat09105&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshat09105&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-gupta-6a27a331a/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshat09105)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/akshat09105)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akshat9105)
 
 ---
