@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Akshat Gupta
+ # 👋 Hey there! I'm Akshat Gupta
 
 **Computer Engineering Student @ Thapar University | AI & Systems Enthusiast**
 
